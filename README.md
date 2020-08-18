@@ -2,6 +2,8 @@
 
 Here are some sample smoketests written to showcase Aquifer, the UI automation framework I wrote, and to play with Onna's knowledge integration platform a little.
 
+live demo video: https://www.youtube.com/watch?v=f3KZ9h9Y9MQ
+
 ## Installation
 
 ``npm i``
