@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "typeRoots": [
+      "custom_typings"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "./*"
+      ],
+      "src/*": [
+        "./src/*"
+      ]
+    },
+    "types": [
+      "node",
+      "@wdio/sync"
+    ]
+  },
+  "include": [
+    "./src/**/*.ts"
+  ]
+}

@@ -1,0 +1,73 @@
+--# api endpoints: https://github.com/ai-wordsmith/wordsmith#wordsmith
+
+
+--################ env: use "dev" or "staging" or "prod" or "eum" #####################
+
+--wsEnv staging
+
+--################ dev #####################
+
+--#wsDevLogin uat@automatedinsights.com
+--#wsDevPassword password    
+
+--wsDevUrl http://localhost:3000
+--wsDevApiUrl http://0.0.0.0:3001/v1
+
+--wsDevCustomerManagerLogin uat@automatedinsights.com
+--wsDevCustomerManagerPassword password
+--wsDevCustomerManagerApiKey d25d7d3d541ed23fa8df127eadca885816106139d9d068d6b188d72f0a47d82d
+
+--wsDevWordsmithUserAdminLogin dne
+--wsDevWordsmithUserAdminPassword dne
+--wsDevWordsmithUserAdminApiKey dne
+
+--wsDevWordsmithUserLogin dne
+--wsDevWordsmithUserPassword dne
+--wsDevWordsmithUserApiKey dne
+
+
+--################ staging #####################
+
+--wsStagUrl https://wordsmith-staging.autoi.co
+--wsStagApiUrl https://api.autoi.co/v1.8
+
+--wsStagCustomerManagerLogin uat@automatedinsights.com
+--wsStagCustomerManagerPassword "<use .passwords file or command line args>"
+--wsStagCustomerManagerApiKey "<use .passwords file or command line args>"
+
+--wsStagWordsmithUserAdminLogin qa-wordsmith-user-admin@wontbechecked.com
+--wsStagWordsmithUserAdminPassword "<use .passwords file or command line args>"
+--wsStagWordsmithUserAdminApiKey "<use .passwords file or command line args>"
+
+--wsStagWordsmithUserLogin qa-wordsmith-user@wontbechecked.com
+--wsStagWordsmithUserPassword "<use .passwords file or command line args>"
+--wsStagWordsmithUserApiKey "<use .passwords file or command line args>"
+
+
+
+--################ eum #####################
+
+--wsEumUrl https://ue1.autoi.co
+--wsEumApiUrl https://ue1-api.autoi.co/v1
+
+--wsEumCustomerManagerLogin uat@automatedinsights.com
+--wsEumCustomerManagerPassword "<use .passwords file or command line args>"
+--wsEumCustomerManagerApiKey "<use .passwords file or command line args>"
+
+--wsEumWordsmithUserAdminLogin dne
+--wsEumWordsmithUserAdminPassword dne
+--wsEumWordsmithUserAdminApiKey dne
+
+--wsEumWordsmithUserLogin dne
+--wsEumWordsmithUserPassword dne
+--wsEumWordsmithUserApiKey dne
+
+
+--################ prod #####################
+
+--wsProdUrl https://wordsmith.automatedinsights.com
+--wsProdApiUrl https://api.automatedinsights.com/v1.8
+
+--wsProdWordsmithUserLogin wordsmithqa@gmail.com
+--wsProdWordsmithUserPassword "<use .passwords file or command line args>"
+--wsProdWordsmithUserApiKey "<use .passwords file or command line args>"

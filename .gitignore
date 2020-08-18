@@ -1,0 +1,18 @@
+.vscode/
+aquiferlog/*
+
+#wdio still generating these screenshots for some reason
+errorShots/
+ERROR_* 
+
+.passwords
+
+tmp/*
+
+# for visual testing -- saves the reference image dir
+screenshots/screen
+screenshots/diff
+
+node_modules/
+
+.DS_Store

@@ -1,0 +1,148 @@
+string,num,list,bool,date,time,truedata
+anneau du Vic-Bilh,100,"One,two,THREE",true,2001-02-13,11:45 PM,3
+ambert,99,"o,gsd,sdf",true,2001-02-14,11:46 PM,4
+avaxtskyr,98,"8,5,4",false,2001-02-15,11:47 PM,5
+Babybel,97,"uy,sdf",true,2001-02-16,11:48 PM,3
+Baguette Laonnaise,96,"One,two,THREE",true,2001-02-17,11:49 PM,4
+Bakers,95,"o,gsd,sdf",false,2001-02-18,11:50 PM,5
+Baladi,94,"8,5,4",true,2001-02-19,11:45 PM,3
+Bandal,93,"uy,sdf",true,2001-02-20,11:46 PM,4
+Banon,92,"One,two,THREE",false,2001-02-21,11:47 PM,5
+Basket Cheese,91,"o,gsd,sdf",true,2001-02-22,11:48 PM,3
+Bath Cheese,90,"8,5,4",true,2001-02-23,11:49 PM,4
+Beer Cheese,89,"uy,sdf",false,2001-02-24,11:50 PM,5
+Bergader,88,"One,two,THREE",true,2001-02-25,11:45 PM,3
+Bleu d'Auvergne,87,"o,gsd,sdf",true,2001-02-26,11:46 PM,4
+Bleu de Gex,86,"8,5,4",false,2001-02-27,11:47 PM,5
+Bleu de Laqueuille,85,"uy,sdf",true,2001-02-28,11:48 PM,3
+Bleu Des Causses,84,"One,two,THREE",true,2001-03-01,11:49 PM,4
+Blue Castello,83,"o,gsd,sdf",false,2001-03-02,11:50 PM,5
+Bonchester,82,"8,5,4",true,2001-03-03,11:45 PM,3
+Bosworth,81,"uy,sdf",true,2001-03-04,11:46 PM,4
+Bougon,80,"One,two,THREE",false,2001-03-05,11:47 PM,5
+Boursault,79,"o,gsd,sdf",true,2001-03-06,11:48 PM,3
+Boursin,78,"8,5,4",true,2001-03-07,11:49 PM,4
+Bouyssou,77,"uy,sdf",false,2001-03-08,11:50 PM,5
+Breakfast Cheese,76,"One,two,THREE",true,2001-03-09,11:45 PM,3
+Brebis du Lavort,75,"o,gsd,sdf",true,2001-03-10,11:46 PM,4
+Brebis du Lochois,74,"8,5,4",false,2001-03-11,11:47 PM,5
+Brebis du Puyfaucon,73,"uy,sdf",true,2001-03-12,11:48 PM,3
+Bresse Bleu,72,"One,two,THREE",true,2001-03-13,11:49 PM,4
+Brie,71,"o,gsd,sdf",false,2001-03-14,11:50 PM,5
+Brie de Meaux,70,"8,5,4",true,2001-03-15,11:45 PM,3
+Brie de Melun,69,"uy,sdf",true,2001-03-16,11:46 PM,4
+Brin d' Amour,68,"One,two,THREE",false,2001-03-17,11:47 PM,5
+Brin d'Amour,67,"o,gsd,sdf",true,2001-03-18,11:48 PM,3
+Brinza (Burduf Brinza),66,"8,5,4",true,2001-03-19,11:49 PM,4
+Briquette de Brebis,65,"uy,sdf",false,2001-03-20,11:50 PM,5
+Broccio,64,"One,two,THREE",true,2001-03-21,11:45 PM,3
+Broccio Demi-Affine,63,"o,gsd,sdf",true,2001-03-22,11:46 PM,4
+Brousse du Rove,62,"8,5,4",false,2001-03-23,11:47 PM,5
+Brusselae Kaas (Fromage de Bruxelles),61,"uy,sdf",true,2001-03-24,11:48 PM,3
+Bryndza,60,"One,two,THREE",true,2001-03-25,11:49 PM,4
+Buchette d'Anjou,59,"o,gsd,sdf",false,2001-03-26,11:50 PM,5
+Butte,58,"8,5,4",true,2001-03-27,11:45 PM,3
+Button (Innes),57,"uy,sdf",true,2001-03-28,11:46 PM,4
+Buxton Blue,56,"One,two,THREE",false,2001-03-29,11:47 PM,5
+Cabecou,55,"o,gsd,sdf",true,2001-03-30,11:48 PM,3
+Caboc,54,"8,5,4",true,2001-03-31,11:49 PM,4
+Cachaille,53,"uy,sdf",false,2001-04-01,11:50 PM,5
+Caciocavallo,52,"One,two,THREE",true,2001-04-02,11:45 PM,3
+Caciotta,51,"o,gsd,sdf",true,2001-04-03,11:46 PM,4
+Camembert de Normandie,50,"8,5,4",false,2001-04-04,11:47 PM,5
+Caprice des Dieux,49,"uy,sdf",true,2001-04-05,11:48 PM,3
+Capricorn Goat,48,"One,two,THREE",true,2001-04-06,11:49 PM,4
+Caravane,47,"o,gsd,sdf",false,2001-04-07,11:50 PM,5
+Carre de l'Est,46,"8,5,4",true,2001-04-08,11:45 PM,3
+Cashel Blue,45,"uy,sdf",true,2001-04-09,11:46 PM,4
+Castelo Branco,44,"One,two,THREE",false,2001-04-10,11:47 PM,5
+Cathelain,43,"o,gsd,sdf",true,2001-04-11,11:48 PM,3
+Cendre d'Olivet,42,"8,5,4",true,2001-04-12,11:49 PM,4
+Cerney,41,"uy,sdf",false,2001-04-13,11:50 PM,5
+Chabichou,40,"One,two,THREE",true,2001-04-14,11:45 PM,3
+Chabichou du Poitou,39,"o,gsd,sdf",true,2001-04-15,11:46 PM,4
+Chabis de Gatine,38,"8,5,4",false,2001-04-16,11:47 PM,5
+Chaource,37,"uy,sdf",true,2001-04-17,11:48 PM,3
+Civray,36,"One,two,THREE",true,2001-04-18,11:49 PM,4
+Coeur de Camembert au Calvados,35,"o,gsd,sdf",false,2001-04-19,11:50 PM,5
+Coeur de Chevre,34,"8,5,4",true,2001-04-20,11:45 PM,3
+Cold Pack,33,"uy,sdf",true,2001-04-21,11:46 PM,4
+Cooleney,32,"One,two,THREE",false,2001-04-22,11:47 PM,5
+Cornish Pepper,31,"o,gsd,sdf",true,2001-04-23,11:48 PM,3
+Cottage Cheese,30,"8,5,4",true,2001-04-24,11:49 PM,4
+Cottage Cheese (Australian),29,"uy,sdf",false,2001-04-25,11:50 PM,5
+Coulommiers,28,"One,two,THREE",true,2001-04-26,11:45 PM,3
+Cream Cheese,27,"o,gsd,sdf",true,2001-04-27,11:46 PM,4
+Crema Agria,26,"8,5,4",false,2001-04-28,11:47 PM,5
+Crema Mexicana,25,"uy,sdf",true,2001-04-29,11:48 PM,3
+Creme Fraiche,24,"One,two,THREE",true,2001-04-30,11:49 PM,4
+Crottin du Chavignol,23,"o,gsd,sdf",false,2001-05-01,11:50 PM,5
+Cuajada,22,"8,5,4",true,2001-05-02,11:45 PM,3
+Cure Nantais,21,"uy,sdf",true,2001-05-03,11:46 PM,4
+Daralagjazsky,20,"One,two,THREE",false,2001-05-04,11:47 PM,5
+Delice des Fiouves,19,"o,gsd,sdf",true,2001-05-05,11:48 PM,3
+Dessertnyj Belyj,18,"8,5,4",true,2001-05-06,11:49 PM,4
+Dolcelatte,17,"uy,sdf",false,2001-05-07,11:50 PM,5
+Doppelrhamstufel,16,"One,two,THREE",true,2001-05-08,11:45 PM,3
+Dreux a la Feuille,15,"o,gsd,sdf",true,2001-05-09,11:46 PM,4
+Dunbarra,14,"8,5,4",false,2001-05-10,11:47 PM,5
+Emlett,13,"uy,sdf",true,2001-05-11,11:48 PM,3
+Evansdale Farmhouse Brie,12,"One,two,THREE",true,2001-05-12,11:49 PM,4
+Explorateur,11,"o,gsd,sdf",false,2001-05-13,11:50 PM,5
+Farmer,10,"8,5,4",true,2001-05-14,11:45 PM,3
+Feta,9,"uy,sdf",true,2001-05-15,11:46 PM,4
+Figue,8,"One,two,THREE",false,2001-05-16,11:47 PM,5
+Fin-de-Siecle,7,"o,gsd,sdf",true,2001-05-17,11:48 PM,3
+Finn,6,"8,5,4",true,2001-05-18,11:49 PM,4
+Fleur du Maquis,5,"uy,sdf",false,2001-05-19,11:50 PM,5
+Flor de Guia,4,"One,two,THREE",true,2001-05-20,11:45 PM,3
+Flower Marie,3,"o,gsd,sdf",true,2001-05-21,11:46 PM,4
+Fondant de Brebis,2,"8,5,4",false,2001-05-22,11:47 PM,5
+Fontainebleau,1,"uy,sdf",true,2001-05-23,11:48 PM,3
+Fougerus,0,"One,two,THREE",true,2001-05-24,11:49 PM,4
+Fourme de Haute Loire,-1,"o,gsd,sdf",false,2001-05-25,11:50 PM,5
+Fresh Mozzarella,-2,"8,5,4",true,2001-05-26,11:45 PM,3
+Fresh Ricotta,-3,"uy,sdf",true,2001-05-27,11:46 PM,4
+Frinault,-4,"One,two,THREE",false,2001-05-28,11:47 PM,5
+Fromage Corse,-5,"o,gsd,sdf",true,2001-05-29,11:48 PM,3
+Fromage Frais,-6,"8,5,4",true,2001-05-30,11:49 PM,4
+Fruit Cream Cheese,-7,"uy,sdf",false,2001-05-31,11:50 PM,5
+Galette du Paludier,-8,"One,two,THREE",true,2001-06-01,11:45 PM,3
+Galette Lyonnaise,-9,"o,gsd,sdf",true,2001-06-02,11:46 PM,4
+Gastanberra,-10,"8,5,4",false,2001-06-03,11:47 PM,5
+Golden Cross,-11,"uy,sdf",true,2001-06-04,11:48 PM,3
+Gorgonzola,-12,"One,two,THREE",true,2001-06-05,11:49 PM,4
+Grand Vatel,-13,"o,gsd,sdf",false,2001-06-06,11:50 PM,5
+Grataron d' Areches,-14,"8,5,4",true,2001-06-07,11:45 PM,3
+Gratte-Paille,-15,"uy,sdf",true,2001-06-08,11:46 PM,4
+Greuilh,-16,"One,two,THREE",false,2001-06-09,11:47 PM,5
+Gris de Lille,-17,"o,gsd,sdf",true,2001-06-10,11:48 PM,3
+Guerbigny,-18,"8,5,4",true,2001-06-11,11:49 PM,4
+Hereford Hop,-19,"uy,sdf",false,2001-06-12,11:50 PM,5
+Humboldt Fog,-20,"One,two,THREE",true,2001-06-13,11:45 PM,3
+Jubilee Blue,-21,"o,gsd,sdf",true,2001-06-14,11:46 PM,4
+Kenafa,-22,"8,5,4",false,2001-06-15,11:47 PM,5
+Kernhem,-23,"uy,sdf",true,2001-06-16,11:48 PM,3
+Kervella Affine,-24,"One,two,THREE",true,2001-06-17,11:49 PM,4
+King Island Cape Wickham Brie,-25,"o,gsd,sdf",false,2001-06-18,11:50 PM,5
+Klosterkaese,-26,"8,5,4",true,2001-06-19,11:45 PM,3
+Kugelkase,-27,"uy,sdf",true,2001-06-20,11:46 PM,4
+L'Aveyronnais,-28,"One,two,THREE",false,2001-06-21,11:47 PM,5
+L'Ecir de l'Aubrac,-29,"o,gsd,sdf",true,2001-06-22,11:48 PM,3
+La Taupiniere,-30,"8,5,4",true,2001-06-23,11:49 PM,4
+La Vache Qui Rit,-31,"uy,sdf",false,2001-06-24,11:50 PM,5
+Le Lacandou,-32,"One,two,THREE",true,2001-06-25,11:45 PM,3
+Le Roule,-33,"o,gsd,sdf",true,2001-06-26,11:46 PM,4
+Lebbene,-34,"8,5,4",false,2001-06-27,11:47 PM,5
+Limburger,-35,"uy,sdf",true,2001-06-28,11:48 PM,3
+Lingot Saint Bousquet d'Orb,-36,"One,two,THREE",true,2001-06-29,11:49 PM,4
+Little Rydings,-37,"o,gsd,sdf",false,2001-06-30,11:50 PM,5
+Lyonnais,-38,"8,5,4",true,2001-07-01,11:45 PM,3
+Macconais,-39,"uy,sdf",true,2001-07-02,11:46 PM,4
+Mahoe Aged Gouda,-40,"One,two,THREE",false,2001-07-03,11:47 PM,5
+Maredsous,-41,"o,gsd,sdf",true,2001-07-04,11:48 PM,3
+Margotin,-42,"8,5,4",true,2001-07-05,11:49 PM,4
+Mascarpone,-43,"uy,sdf",false,2001-07-06,11:50 PM,5
+Mascarpone (Australian),-44,"One,two,THREE",true,2001-07-07,11:45 PM,3
+Mascarpone Torta,-45,"o,gsd,sdf",true,2001-07-08,11:46 PM,4
+Metton (Cancoillotte),-46,"8,5,4",false,2001-07-09,11:47 PM,5

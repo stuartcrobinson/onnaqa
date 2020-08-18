@@ -1,0 +1,1 @@
+these tests are for doing one-off tests of the aquifer infrastructure.  logging, wdio lifecycle methods, etc. 
